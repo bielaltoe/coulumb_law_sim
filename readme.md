@@ -2,6 +2,8 @@
 
 Uma simulação interativa de partículas carregadas que demonstra a Lei de Coulomb em um ambiente 3D. O simulador permite visualizar diferentes configurações de cargas elétricas e suas interações.
 
+![Coulomb Law Simulation Demo](media/giphy.mp4)
+
 ## Requisitos
 
 - Python 3.8 ou superior
