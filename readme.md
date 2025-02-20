@@ -1,8 +1,11 @@
 # Simulador da Lei de Coulomb
 
 Uma simulação interativa de partículas carregadas que demonstra a Lei de Coulomb em um ambiente 3D. O simulador permite visualizar diferentes configurações de cargas elétricas e suas interações.
+<div align="center">
 
 ![Coulomb Law Simulation Demo](media/gif.gif)
+
+</div>
 
 ## Requisitos
 
